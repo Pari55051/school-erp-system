@@ -13,10 +13,11 @@ Mock school ERP system with very basic functionalities. Built for the purpose of
 - find overall class average marks
 
 ## Features not yet avaliable (might be added later)
-- different classes (right now only one class is supported)
+- different classes (only one class is supported)
 - a user interface (CLI/GUI)
 - use of proper DBMS (data is stored in form of a dictionary during runtime only)
 - saved data (data is not saved to a file, so it is lost when program exits)
+- custom number of subjects (only supporting 3 subjects)
 
 ## Installation
 1. Donwload repository
